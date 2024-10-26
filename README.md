@@ -6,6 +6,8 @@
 
 产品详情页：[Jetson Orin NX 详情 - 亚博](https://www.yahboom.com/tbdetails?id=550)
 
+官方中文课程资料：[Jetson Orin NX - 亚博](https://www.yahboom.com/study/Jetson-Orin-NX)
+
 #### 为什么读我而不是官方文档？
 
 1. 官方中文文档需要提取码。如果开发套件并非一手购买则无法获取。
@@ -121,7 +123,7 @@
 
 #### ROS1 基础教程
 
-6.1 ROS 简介
+[6.1 ROS 简介](./6%20ROS1%20进阶教程/6.1%20ROS%20简介.md)
 
 6.2 项目文件结构
 
